@@ -16,4 +16,4 @@ Outcome: Used data analysis and modeling to successfully evaluate all aspects of
 Key Skills: Used mean , mediam , mode to classify the data. 
 Created summaries min,max,avg, city wise spend of the data. 
 Created multiple graphs.  
-Created a user defined function to for repayment analysis of the data. 
+Created a user defined function for repayment analysis of the data. 
