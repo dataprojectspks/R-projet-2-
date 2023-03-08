@@ -3,7 +3,7 @@ R-Project-2
 
 Credit card case study 
 
-This book has the following sheets: • This book has the following sheets:
+This book has the following sheets:
 •	Customer Acquisition: Details of customers.
 •	Spend (Transaction data): Credit card spend for each customer
 •	Repayment: Credit card Payment done by customer
